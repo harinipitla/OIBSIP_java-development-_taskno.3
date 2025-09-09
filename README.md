@@ -26,7 +26,7 @@ Users can securely log in and perform operations like viewing transaction histor
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harinipitla/ATMinterface.git
+   git clone https://github.com/harinipitla/OIBSIP_java-development_taskno.3.git
    cd ATMInterface
 Compile the program:
 
@@ -40,7 +40,7 @@ java ATM
 🎥 Demo Video
 
 👉 Watch the Demo on YouTube
-[text](https://youtu.be/i1PTwKdwAjU)
+(https://youtu.be/i1PTwKdwAjU)
 
 🎯 Outcome
 
